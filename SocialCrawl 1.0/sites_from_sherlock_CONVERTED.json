@@ -1,0 +1,5298 @@
+[
+  {
+    "name": "1337x",
+    "url": "https://www.1337x.to/user/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.1337x.to/",
+    "username_regex": "^[A-Za-z0-9]{4,12}$",
+    "username_claimed": "FitGirl"
+  },
+  {
+    "name": "2Dimensions",
+    "url": "https://2Dimensions.com/a/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://2Dimensions.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "7Cups",
+    "url": "https://www.7cups.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.7cups.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "9GAG",
+    "url": "https://www.9gag.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.9gag.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "APClips",
+    "url": "https://apclips.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://apclips.com/",
+    "username_claimed": "onlybbyraq"
+  },
+  {
+    "name": "About.me",
+    "url": "https://about.me/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://about.me/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Academia.edu",
+    "url": "https://independent.academia.edu/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.academia.edu/",
+    "username_regex": "^[^.]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "AdmireMe.Vip",
+    "url": "https://admireme.vip/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://admireme.vip/",
+    "username_claimed": "DemiDevil"
+  },
+  {
+    "name": "Airbit",
+    "url": "https://airbit.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://airbit.com/",
+    "username_claimed": "airbit"
+  },
+  {
+    "name": "Airliners",
+    "url": "https://www.airliners.net/user/{username}/profile/photos",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.airliners.net/",
+    "username_claimed": "yushinlin"
+  },
+  {
+    "name": "All Things Worn",
+    "url": "https://www.allthingsworn.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.allthingsworn.com",
+    "username_claimed": "pink"
+  },
+  {
+    "name": "AllMyLinks",
+    "url": "https://allmylinks.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://allmylinks.com/",
+    "username_regex": "^[a-z0-9][a-z0-9-]{2,32}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "AniWorld",
+    "url": "https://aniworld.to/user/profil/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://aniworld.to/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Anilist",
+    "url": "https://anilist.co/user/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://anilist.co/",
+    "username_regex": "^[A-Za-z0-9]{2,20}$",
+    "username_claimed": "Josh"
+  },
+  {
+    "name": "Apple Developer",
+    "url": "https://developer.apple.com/forums/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://developer.apple.com",
+    "username_claimed": "lio24d"
+  },
+  {
+    "name": "Apple Discussions",
+    "url": "https://discussions.apple.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discussions.apple.com",
+    "username_claimed": "jason"
+  },
+  {
+    "name": "Aparat",
+    "url": "https://www.aparat.com/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.aparat.com/",
+    "username_claimed": "jadi"
+  },
+  {
+    "name": "Archive of Our Own",
+    "url": "https://archiveofourown.org/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://archiveofourown.org/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "test"
+  },
+  {
+    "name": "Archive.org",
+    "url": "https://archive.org/details/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://archive.org",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Arduino Forum",
+    "url": "https://forum.arduino.cc/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.arduino.cc/",
+    "username_claimed": "system"
+  },
+  {
+    "name": "ArtStation",
+    "url": "https://www.artstation.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.artstation.com/",
+    "username_claimed": "Blue"
+  },
+  {
+    "name": "Asciinema",
+    "url": "https://asciinema.org/~{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://asciinema.org",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Ask Fedora",
+    "url": "https://ask.fedoraproject.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ask.fedoraproject.org/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Atcoder",
+    "url": "https://atcoder.jp/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://atcoder.jp/",
+    "username_claimed": "ksun48"
+  },
+  {
+    "name": "Vjudge",
+    "url": "https://VJudge.net/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://VJudge.net/",
+    "username_claimed": "tokitsukaze"
+  },
+  {
+    "name": "Audiojungle",
+    "url": "https://audiojungle.net/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://audiojungle.net/",
+    "username_regex": "^[a-zA-Z0-9_]+$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Autofrage",
+    "url": "https://www.autofrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.autofrage.net/",
+    "username_claimed": "autofrage"
+  },
+  {
+    "name": "Avizo",
+    "url": "https://www.avizo.cz/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.avizo.cz/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "AWS Skills Profile",
+    "url": "https://skillsprofile.skillbuilder.aws/user/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://skillsprofile.skillbuilder.aws",
+    "username_claimed": "mayank04pant"
+  },
+  {
+    "name": "BOOTH",
+    "url": "https://{username}.booth.pm/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://booth.pm/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://www.bandcamp.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.bandcamp.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Bazar.cz",
+    "url": "https://www.bazar.cz/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.bazar.cz/",
+    "username_claimed": "pianina"
+  },
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.behance.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Bezuzyteczna",
+    "url": "https://bezuzyteczna.pl/uzytkownicy/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://bezuzyteczna.pl",
+    "username_claimed": "Jackson"
+  },
+  {
+    "name": "BiggerPockets",
+    "url": "https://www.biggerpockets.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.biggerpockets.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "BioHacking",
+    "url": "https://forum.dangerousthings.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.dangerousthings.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "BitBucket",
+    "url": "https://bitbucket.org/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://bitbucket.org/",
+    "username_regex": "^[a-zA-Z0-9-_]{1,30}$",
+    "username_claimed": "white"
+  },
+  {
+    "name": "Bitwarden Forum",
+    "url": "https://community.bitwarden.com/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://bitwarden.com/",
+    "username_regex": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Blipfoto",
+    "url": "https://www.blipfoto.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.blipfoto.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Blitz Tactics",
+    "url": "https://blitztactics.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://blitztactics.com/",
+    "username_claimed": "Lance5500"
+  },
+  {
+    "name": "Blogger",
+    "url": "https://{username}.blogspot.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.blogger.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Bluesky",
+    "url": "https://bsky.app/profile/{username}.bsky.social",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://bsky.app/",
+    "username_claimed": "mcuban"
+  },
+  {
+    "name": "BongaCams",
+    "url": "https://pt.bongacams.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pt.bongacams.com",
+    "username_claimed": "asuna-black"
+  },
+  {
+    "name": "Bookcrossing",
+    "url": "https://www.bookcrossing.com/mybookshelf/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.bookcrossing.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "BoardGameGeek",
+    "url": "https://boardgamegeek.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://boardgamegeek.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "BraveCommunity",
+    "url": "https://community.brave.com/u/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.brave.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "BreachSta.rs Forum",
+    "url": "https://breachsta.rs/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://breachsta.rs/",
+    "username_claimed": "Sleepybubble"
+  },
+  {
+    "name": "BugCrowd",
+    "url": "https://bugcrowd.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://bugcrowd.com/",
+    "username_claimed": "ppfeister"
+  },
+  {
+    "name": "BuyMeACoffee",
+    "url": "https://buymeacoff.ee/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.buymeacoffee.com/",
+    "username_regex": "[a-zA-Z0-9]{3,15}",
+    "username_claimed": "red"
+  },
+  {
+    "name": "BuzzFeed",
+    "url": "https://buzzfeed.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://buzzfeed.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Cfx.re Forum",
+    "url": "https://forum.cfx.re/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.cfx.re",
+    "username_claimed": "hightowerlssd"
+  },
+  {
+    "name": "CGTrader",
+    "url": "https://www.cgtrader.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.cgtrader.com",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "CNET",
+    "url": "https://www.cnet.com/profiles/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.cnet.com/",
+    "username_regex": "^[a-z].*$",
+    "username_claimed": "melliott"
+  },
+  {
+    "name": "CSSBattle",
+    "url": "https://cssbattle.dev/player/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cssbattle.dev",
+    "username_claimed": "beo"
+  },
+  {
+    "name": "CTAN",
+    "url": "https://ctan.org/author/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ctan.org/",
+    "username_claimed": "briggs"
+  },
+  {
+    "name": "Caddy Community",
+    "url": "https://caddy.community/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://caddy.community/",
+    "username_claimed": "taako_magnusen"
+  },
+  {
+    "name": "Car Talk Community",
+    "url": "https://community.cartalk.com/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.cartalk.com/",
+    "username_claimed": "always_fixing"
+  },
+  {
+    "name": "Carbonmade",
+    "url": "https://{username}.carbonmade.com",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://carbonmade.com/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Career.habr",
+    "url": "https://career.habr.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://career.habr.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "CashApp",
+    "url": "https://cash.app/${username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cash.app",
+    "username_claimed": "hotdiggitydog"
+  },
+  {
+    "name": "Championat",
+    "url": "https://www.championat.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.championat.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Chaos",
+    "url": "https://chaos.social/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://chaos.social/",
+    "username_claimed": "ordnung"
+  },
+  {
+    "name": "Chatujme.cz",
+    "url": "https://profil.chatujme.cz/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://chatujme.cz/",
+    "username_regex": "^[a-zA-Z][a-zA-Z1-9_-]*$",
+    "username_claimed": "david"
+  },
+  {
+    "name": "ChaturBate",
+    "url": "https://chaturbate.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://chaturbate.com",
+    "username_claimed": "cute18cute"
+  },
+  {
+    "name": "Chess",
+    "url": "https://www.chess.com/member/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.chess.com/",
+    "username_regex": "^[a-z1-9]{3,25}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Choice Community",
+    "url": "https://choice.community/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://choice.community/",
+    "username_claimed": "gordon"
+  },
+  {
+    "name": "Clapper",
+    "url": "https://clapperapp.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://clapperapp.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "CloudflareCommunity",
+    "url": "https://community.cloudflare.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.cloudflare.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Clozemaster",
+    "url": "https://www.clozemaster.com/players/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.clozemaster.com",
+    "username_claimed": "green"
+  },
+  {
+    "name": "Clubhouse",
+    "url": "https://www.clubhouse.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.clubhouse.com",
+    "username_claimed": "waniathar"
+  },
+  {
+    "name": "Code Snippet Wiki",
+    "url": "https://codesnippets.fandom.com/wiki/User:{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codesnippets.fandom.com",
+    "username_claimed": "bob"
+  },
+  {
+    "name": "Codeberg",
+    "url": "https://codeberg.org/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codeberg.org/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Codecademy",
+    "url": "https://www.codecademy.com/profiles/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.codecademy.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Codechef",
+    "url": "https://www.codechef.com/users/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.codechef.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Codeforces",
+    "url": "https://codeforces.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codeforces.com/",
+    "username_claimed": "tourist"
+  },
+  {
+    "name": "Codepen",
+    "url": "https://codepen.io/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codepen.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Coders Rank",
+    "url": "https://profile.codersrank.io/user/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codersrank.io/",
+    "username_regex": "^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$",
+    "username_claimed": "rootkit7628"
+  },
+  {
+    "name": "Coderwall",
+    "url": "https://coderwall.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://coderwall.com",
+    "username_claimed": "hacker"
+  },
+  {
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codesandbox.io",
+    "username_regex": "^[a-zA-Z0-9_-]{3,30}$",
+    "username_claimed": "icyjoseph"
+  },
+  {
+    "name": "Codewars",
+    "url": "https://www.codewars.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.codewars.com",
+    "username_claimed": "example"
+  },
+  {
+    "name": "Codolio",
+    "url": "https://codolio.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://codolio.com/",
+    "username_regex": "^[a-zA-Z0-9_-]{3,30}$",
+    "username_claimed": "testuser"
+  },
+  {
+    "name": "Coinvote",
+    "url": "https://coinvote.cc/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://coinvote.cc/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ColourLovers",
+    "url": "https://www.colourlovers.com/lover/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.colourlovers.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Contently",
+    "url": "https://{username}.contently.com/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://contently.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "jordanteicher"
+  },
+  {
+    "name": "Coroflot",
+    "url": "https://www.coroflot.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://coroflot.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Cplusplus",
+    "url": "https://cplusplus.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cplusplus.com",
+    "username_claimed": "mbozzi"
+  },
+  {
+    "name": "Cracked",
+    "url": "https://www.cracked.com/members/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.cracked.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Cracked Forum",
+    "url": "https://cracked.sh/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cracked.sh/",
+    "username_claimed": "Blue"
+  },
+  {
+    "name": "Crevado",
+    "url": "https://{username}.crevado.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://crevado.com/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Crowdin",
+    "url": "https://crowdin.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://crowdin.com/",
+    "username_regex": "^[a-zA-Z0-9._-]{2,255}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "CryptoHack",
+    "url": "https://cryptohack.org/user/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cryptohack.org/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Cryptomator Forum",
+    "url": "https://community.cryptomator.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.cryptomator.org/",
+    "username_claimed": "michael"
+  },
+  {
+    "name": "Cults3D",
+    "url": "https://cults3d.com/en/users/{username}/creations",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cults3d.com/en",
+    "username_claimed": "brown"
+  },
+  {
+    "name": "CyberDefenders",
+    "url": "https://cyberdefenders.org/p/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://cyberdefenders.org/",
+    "username_regex": "^[^\\/:*?\"<>|@]{3,50}$",
+    "username_claimed": "mlohn"
+  },
+  {
+    "name": "DEV Community",
+    "url": "https://dev.to/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://dev.to/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "DMOJ",
+    "url": "https://dmoj.ca/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://dmoj.ca/",
+    "username_claimed": "junferno"
+  },
+  {
+    "name": "DailyMotion",
+    "url": "https://www.dailymotion.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.dailymotion.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "dcinside",
+    "url": "https://gallog.dcinside.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.dcinside.com/",
+    "username_claimed": "anrbrb"
+  },
+  {
+    "name": "Dealabs",
+    "url": "https://www.dealabs.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.dealabs.com/",
+    "username_regex": "[a-z0-9]{4,16}",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "DeviantArt",
+    "url": "https://www.deviantart.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.deviantart.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "DigitalSpy",
+    "url": "https://forums.digitalspy.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forums.digitalspy.com/",
+    "username_regex": "^\\w{3,20}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Discogs",
+    "url": "https://www.discogs.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.discogs.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discord.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Discord.bio",
+    "url": "https://discords.com/api-v2/bio/details/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discord.bio/",
+    "username_claimed": "robert"
+  },
+  {
+    "name": "Discuss.Elastic.co",
+    "url": "https://discuss.elastic.co/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discuss.elastic.co/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Diskusjon.no",
+    "url": "https://www.diskusjon.no",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.diskusjon.no",
+    "username_regex": "^[a-zA-Z0-9_.-]{3,40}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Disqus",
+    "url": "https://disqus.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://disqus.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Docker Hub",
+    "url": "https://hub.docker.com/u/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hub.docker.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://dribbble.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://duolingo.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Eintracht Frankfurt Forum",
+    "url": "https://community.eintracht.de/fans/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.eintracht.de/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "mmammu"
+  },
+  {
+    "name": "Empretienda AR",
+    "url": "https://{username}.empretienda.com.ar",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://empretienda.com",
+    "username_claimed": "camalote"
+  },
+  {
+    "name": "Envato Forum",
+    "url": "https://forums.envato.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forums.envato.com/",
+    "username_claimed": "enabled"
+  },
+  {
+    "name": "Erome",
+    "url": "https://www.erome.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.erome.com/",
+    "username_claimed": "bob"
+  },
+  {
+    "name": "Exposure",
+    "url": "https://{username}.exposure.co/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://exposure.co/",
+    "username_regex": "^[a-zA-Z0-9-]{1,63}$",
+    "username_claimed": "jonasjacobsson"
+  },
+  {
+    "name": "exophase",
+    "url": "https://www.exophase.com/user/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.exophase.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "EyeEm",
+    "url": "https://www.eyeem.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.eyeem.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "F3.cool",
+    "url": "https://f3.cool/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://f3.cool/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Fameswap",
+    "url": "https://fameswap.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://fameswap.com/",
+    "username_claimed": "fameswap"
+  },
+  {
+    "name": "Fandom",
+    "url": "https://www.fandom.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.fandom.com/",
+    "username_claimed": "Jungypoo"
+  },
+  {
+    "name": "Fanpop",
+    "url": "https://www.fanpop.com/fans/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.fanpop.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Finanzfrage",
+    "url": "https://www.finanzfrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.finanzfrage.net/",
+    "username_claimed": "finanzfrage"
+  },
+  {
+    "name": "Flickr",
+    "url": "https://www.flickr.com/people/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.flickr.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Flightradar24",
+    "url": "https://my.flightradar24.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.flightradar24.com/",
+    "username_regex": "^[a-zA-Z0-9_]{3,20}$",
+    "username_claimed": "jebbrooks"
+  },
+  {
+    "name": "Flipboard",
+    "url": "https://flipboard.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://flipboard.com/",
+    "username_regex": "^([a-zA-Z0-9_]){1,15}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Football",
+    "url": "https://www.rusfootball.info/user/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.rusfootball.info/",
+    "username_claimed": "solo87"
+  },
+  {
+    "name": "FortniteTracker",
+    "url": "https://fortnitetracker.com/profile/all/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://fortnitetracker.com/challenges",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Forum Ophilia",
+    "url": "https://www.forumophilia.com/profile.php?mode=viewprofile&u={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.forumophilia.com/",
+    "username_claimed": "bob"
+  },
+  {
+    "name": "Fosstodon",
+    "url": "https://fosstodon.org/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://fosstodon.org/",
+    "username_regex": "^[a-zA-Z0-9_]{1,30}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Framapiaf",
+    "url": "https://framapiaf.org/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://framapiaf.org",
+    "username_regex": "^[a-zA-Z0-9_]{1,30}$",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "Freelancer",
+    "url": "https://www.freelancer.com/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.freelancer.com/",
+    "username_claimed": "red0xff"
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org/people/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://freesound.org/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "GNOME VCS",
+    "url": "https://gitlab.gnome.org/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gitlab.gnome.org/",
+    "username_regex": "^(?!-)[a-zA-Z0-9_.-]{2,255}(?<!\\.)$",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "GaiaOnline",
+    "url": "https://www.gaiaonline.com/profiles/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.gaiaonline.com/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "Gamespot",
+    "url": "https://www.gamespot.com/profile/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.gamespot.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "GameFAQs",
+    "url": "https://gamefaqs.gamespot.com/community/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gamefaqs.gamespot.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "GeeksforGeeks",
+    "url": "https://auth.geeksforgeeks.org/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.geeksforgeeks.org/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "Genius (Artists)",
+    "url": "https://genius.com/artists/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://genius.com/",
+    "username_regex": "^[a-zA-Z0-9]{5,50}$",
+    "username_claimed": "genius"
+  },
+  {
+    "name": "Genius (Users)",
+    "url": "https://genius.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://genius.com/",
+    "username_regex": "^[a-zA-Z0-9]*?$",
+    "username_claimed": "genius"
+  },
+  {
+    "name": "Gesundheitsfrage",
+    "url": "https://www.gesundheitsfrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.gesundheitsfrage.net/",
+    "username_claimed": "gutefrage"
+  },
+  {
+    "name": "GetMyUni",
+    "url": "https://www.getmyuni.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://getmyuni.com/",
+    "username_claimed": "Upneet.Grover17"
+  },
+  {
+    "name": "Giant Bomb",
+    "url": "https://www.giantbomb.com/profile/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.giantbomb.com/",
+    "username_claimed": "bob"
+  },
+  {
+    "name": "Giphy",
+    "url": "https://giphy.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://giphy.com/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "GitBook",
+    "url": "https://{username}.gitbook.io/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gitbook.com/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "gitbook"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://www.github.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.github.com/",
+    "username_regex": "^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Warframe Market",
+    "url": "https://warframe.market/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://warframe.market/",
+    "username_claimed": "kaiallalone"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gitlab.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Gitea",
+    "url": "https://gitea.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gitea.com/",
+    "username_claimed": "xorm"
+  },
+  {
+    "name": "Gitee",
+    "url": "https://gitee.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gitee.com/",
+    "username_claimed": "wizzer"
+  },
+  {
+    "name": "GoodReads",
+    "url": "https://www.goodreads.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.goodreads.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Google Play",
+    "url": "https://play.google.com/store/apps/developer?id={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://play.google.com",
+    "username_claimed": "GitHub"
+  },
+  {
+    "name": "Gradle",
+    "url": "https://plugins.gradle.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://gradle.org/",
+    "username_regex": "^(?!-)[a-zA-Z0-9-]{3,}(?<!-)$",
+    "username_claimed": "jetbrains"
+  },
+  {
+    "name": "Grailed",
+    "url": "https://www.grailed.com/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.grailed.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Gravatar",
+    "url": "http://en.gravatar.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://en.gravatar.com/",
+    "username_regex": "^((?!\\.).)*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://www.gumroad.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.gumroad.com/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Gutefrage",
+    "url": "https://www.gutefrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.gutefrage.net/",
+    "username_claimed": "gutefrage"
+  },
+  {
+    "name": "HackTheBox",
+    "url": "https://forum.hackthebox.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.hackthebox.com/",
+    "username_claimed": "angar"
+  },
+  {
+    "name": "Hackaday",
+    "url": "https://hackaday.io/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackaday.io/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "HackenProof (Hackers)",
+    "url": "https://hackenproof.com/hackers/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackenproof.com/",
+    "username_regex": "^[\\w-]{,34}$",
+    "username_claimed": "blazezaria"
+  },
+  {
+    "name": "HackerEarth",
+    "url": "https://hackerearth.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackerearth.com/",
+    "username_claimed": "naveennamani877"
+  },
+  {
+    "name": "HackerNews",
+    "url": "https://news.ycombinator.com/user?id={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://news.ycombinator.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "HackerOne",
+    "url": "https://hackerone.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackerone.com/",
+    "username_claimed": "stok"
+  },
+  {
+    "name": "HackerRank",
+    "url": "https://hackerrank.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackerrank.com/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "satznova"
+  },
+  {
+    "name": "HackerSploit",
+    "url": "https://forum.hackersploit.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.hackersploit.org/",
+    "username_claimed": "hackersploit"
+  },
+  {
+    "name": "HackMD",
+    "url": "https://hackmd.io/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hackmd.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Harvard Scholar",
+    "url": "https://scholar.harvard.edu/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://scholar.harvard.edu/",
+    "username_claimed": "ousmanekane"
+  },
+  {
+    "name": "Hashnode",
+    "url": "https://hashnode.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hashnode.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Heavy-R",
+    "url": "https://www.heavy-r.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.heavy-r.com/",
+    "username_claimed": "kilroy222"
+  },
+  {
+    "name": "Hive Blog",
+    "url": "https://hive.blog/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hive.blog/",
+    "username_claimed": "mango-juice"
+  },
+  {
+    "name": "Holopin",
+    "url": "https://holopin.io/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://holopin.io",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Houzz",
+    "url": "https://houzz.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://houzz.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "HubPages",
+    "url": "https://hubpages.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hubpages.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Hubski",
+    "url": "https://hubski.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hubski.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "HudsonRock",
+    "url": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hudsonrock.com",
+    "username_claimed": "testadmin"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://huggingface.co/",
+    "username_claimed": "Pasanlaksitha"
+  },
+  {
+    "name": "IFTTT",
+    "url": "https://www.ifttt.com/p/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.ifttt.com/",
+    "username_regex": "^[A-Za-z0-9]{3,35}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Ifunny",
+    "url": "https://ifunny.co/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ifunny.co/",
+    "username_claimed": "agua"
+  },
+  {
+    "name": "IRC-Galleria",
+    "url": "https://irc-galleria.net/user/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://irc-galleria.net/",
+    "username_claimed": "appas"
+  },
+  {
+    "name": "Icons8 Community",
+    "url": "https://community.icons8.com/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.icons8.com/",
+    "username_claimed": "thefourCraft"
+  },
+  {
+    "name": "Image Fap",
+    "url": "https://www.imagefap.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.imagefap.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ImgUp.cz",
+    "url": "https://imgup.cz/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://imgup.cz/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "Imgur",
+    "url": "https://imgur.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://imgur.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "imood",
+    "url": "https://www.imood.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.imood.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://instagram.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://instagram.com/",
+    "username_claimed": "instagram"
+  },
+  {
+    "name": "Instapaper",
+    "url": "https://www.instapaper.com/p/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.instapaper.com/",
+    "username_claimed": "john"
+  },
+  {
+    "name": "Instructables",
+    "url": "https://www.instructables.com/member/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.instructables.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Intigriti",
+    "url": "https://app.intigriti.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://app.intigriti.com",
+    "username_regex": "[a-z0-9_]{1,25}",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Ionic Forum",
+    "url": "https://forum.ionicframework.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.ionicframework.com/",
+    "username_claimed": "theblue222"
+  },
+  {
+    "name": "Issuu",
+    "url": "https://issuu.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://issuu.com/",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Itch.io",
+    "url": "https://{username}.itch.io/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://itch.io/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Itemfix",
+    "url": "https://www.itemfix.com/c/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.itemfix.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Jellyfin Weblate",
+    "url": "https://translate.jellyfin.org/user/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://translate.jellyfin.org/",
+    "username_regex": "^[a-zA-Z0-9@._-]{1,150}$",
+    "username_claimed": "EraYaN"
+  },
+  {
+    "name": "Jimdo",
+    "url": "https://{username}.jimdosite.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://jimdosite.com/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Joplin Forum",
+    "url": "https://discourse.joplinapp.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discourse.joplinapp.org/",
+    "username_claimed": "laurent"
+  },
+  {
+    "name": "Jupyter Community Forum",
+    "url": "https://discourse.jupyter.org/u/{username}/summary",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discourse.jupyter.org",
+    "username_claimed": "choldgraf"
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.kaggle.com/",
+    "username_claimed": "dansbecker"
+  },
+  {
+    "name": "kaskus",
+    "url": "https://www.kaskus.co.id/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.kaskus.co.id",
+    "username_claimed": "l0mbart"
+  },
+  {
+    "name": "Keybase",
+    "url": "https://keybase.io/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://keybase.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Kick",
+    "url": "https://kick.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://kick.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Kik",
+    "url": "https://kik.me/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://kik.me/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Kongregate",
+    "url": "https://www.kongregate.com/accounts/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.kongregate.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Kvinneguiden",
+    "url": "https://forum.kvinneguiden.no",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.kvinneguiden.no",
+    "username_regex": "^[a-zA-Z0-9_.-]{3,18}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "LOR",
+    "url": "https://www.linux.org.ru/people/{username}/profile",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://linux.org.ru/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Laracast",
+    "url": "https://laracasts.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://laracasts.com/",
+    "username_regex": "^[a-zA-Z0-9_-]{3,}$",
+    "username_claimed": "user1"
+  },
+  {
+    "name": "Launchpad",
+    "url": "https://launchpad.net/~{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://launchpad.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "LeetCode",
+    "url": "https://leetcode.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://leetcode.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "LemmyWorld",
+    "url": "https://lemmy.world/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://lemmy.world",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "LessWrong",
+    "url": "https://www.lesswrong.com/users/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.lesswrong.com/",
+    "username_claimed": "habryka"
+  },
+  {
+    "name": "Letterboxd",
+    "url": "https://letterboxd.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://letterboxd.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "LibraryThing",
+    "url": "https://www.librarything.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.librarything.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Lichess",
+    "url": "https://lichess.org/@/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://lichess.org",
+    "username_claimed": "john"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://linkedin.com",
+    "username_regex": "^[a-zA-Z0-9]{3,100}$",
+    "username_claimed": "paulpfeister"
+  },
+  {
+    "name": "Linktree",
+    "url": "https://linktr.ee/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://linktr.ee/",
+    "username_regex": "^[\\w\\.]{2,30}$",
+    "username_claimed": "anne"
+  },
+  {
+    "name": "LinuxFR.org",
+    "url": "https://linuxfr.org/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://linuxfr.org/",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "Listed",
+    "url": "https://listed.to/@{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://listed.to/",
+    "username_claimed": "listed"
+  },
+  {
+    "name": "LiveJournal",
+    "url": "https://{username}.livejournal.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.livejournal.com/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Lobsters",
+    "url": "https://lobste.rs/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://lobste.rs/",
+    "username_regex": "[A-Za-z0-9][A-Za-z0-9_-]{0,24}",
+    "username_claimed": "jcs"
+  },
+  {
+    "name": "LottieFiles",
+    "url": "https://lottiefiles.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://lottiefiles.com/",
+    "username_claimed": "lottiefiles"
+  },
+  {
+    "name": "LushStories",
+    "url": "https://www.lushstories.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.lushstories.com/",
+    "username_claimed": "chris_brown"
+  },
+  {
+    "name": "MMORPG Forum",
+    "url": "https://forums.mmorpg.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forums.mmorpg.com/",
+    "username_claimed": "goku"
+  },
+  {
+    "name": "Mamot",
+    "url": "https://mamot.fr/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mamot.fr/",
+    "username_regex": "^[a-zA-Z0-9_]{1,30}$",
+    "username_claimed": "anciensEnssat"
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://medium.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Memrise",
+    "url": "https://www.memrise.com/user/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.memrise.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Minecraft",
+    "url": "https://api.mojang.com/users/profiles/minecraft/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://minecraft.net/",
+    "username_regex": "^.{1,25}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "MixCloud",
+    "url": "https://www.mixcloud.com/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.mixcloud.com/",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Monkeytype",
+    "url": "https://monkeytype.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://monkeytype.com/",
+    "username_claimed": "Lost_Arrow"
+  },
+  {
+    "name": "Motherless",
+    "url": "https://motherless.com/m/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://motherless.com/",
+    "username_claimed": "hacker"
+  },
+  {
+    "name": "Motorradfrage",
+    "url": "https://www.motorradfrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.motorradfrage.net/",
+    "username_claimed": "gutefrage"
+  },
+  {
+    "name": "MuseScore",
+    "url": "https://musescore.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://musescore.com/",
+    "username_claimed": "arrangeme"
+  },
+  {
+    "name": "MyAnimeList",
+    "url": "https://myanimelist.net/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://myanimelist.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "MyMiniFactory",
+    "url": "https://www.myminifactory.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.myminifactory.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Mydramalist",
+    "url": "https://www.mydramalist.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mydramalist.com",
+    "username_claimed": "elhadidy12398"
+  },
+  {
+    "name": "Myspace",
+    "url": "https://myspace.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://myspace.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "NICommunityForum",
+    "url": "https://community.native-instruments.com/profile/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.native-instruments.com/forum/",
+    "username_claimed": "jambert"
+  },
+  {
+    "name": "namuwiki",
+    "url": "https://namu.wiki/w/%EC%82%AC%EC%9A%A9%EC%9E%90:{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://namu.wiki/",
+    "username_claimed": "namu"
+  },
+  {
+    "name": "NationStates Nation",
+    "url": "https://nationstates.net/nation={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nationstates.net",
+    "username_claimed": "the_holy_principality_of_saint_mark"
+  },
+  {
+    "name": "NationStates Region",
+    "url": "https://nationstates.net/region={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nationstates.net",
+    "username_claimed": "the_west_pacific"
+  },
+  {
+    "name": "Naver",
+    "url": "https://blog.naver.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://naver.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Needrom",
+    "url": "https://www.needrom.com/author/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.needrom.com/",
+    "username_claimed": "needrom"
+  },
+  {
+    "name": "Newgrounds",
+    "url": "https://{username}.newgrounds.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://newgrounds.com",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Nextcloud Forum",
+    "url": "https://help.nextcloud.com/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nextcloud.com/",
+    "username_regex": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Nightbot",
+    "url": "https://nightbot.tv/t/{username}/commands",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nightbot.tv/",
+    "username_claimed": "green"
+  },
+  {
+    "name": "Ninja Kiwi",
+    "url": "https://ninjakiwi.com/profile/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ninjakiwi.com/",
+    "username_claimed": "Kyruko"
+  },
+  {
+    "name": "NintendoLife",
+    "url": "https://www.nintendolife.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.nintendolife.com/",
+    "username_claimed": "goku"
+  },
+  {
+    "name": "NitroType",
+    "url": "https://www.nitrotype.com/racer/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.nitrotype.com/",
+    "username_claimed": "jianclash"
+  },
+  {
+    "name": "NotABug.org",
+    "url": "https://notabug.org/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://notabug.org/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Nothing Community",
+    "url": "https://nothing.community/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nothing.community/",
+    "username_claimed": "Carl"
+  },
+  {
+    "name": "Nyaa.si",
+    "url": "https://nyaa.si/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nyaa.si/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ObservableHQ",
+    "url": "https://observablehq.com/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://observablehq.com/",
+    "username_claimed": "mbostock"
+  },
+  {
+    "name": "Open Collective",
+    "url": "https://opencollective.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://opencollective.com/",
+    "username_claimed": "sindresorhus"
+  },
+  {
+    "name": "OpenGameArt",
+    "url": "https://opengameart.org/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://opengameart.org",
+    "username_claimed": "ski"
+  },
+  {
+    "name": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.openstreetmap.org/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Odysee",
+    "url": "https://odysee.com/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://odysee.com/",
+    "username_claimed": "Odysee"
+  },
+  {
+    "name": "Opensource",
+    "url": "https://opensource.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://opensource.com/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "OurDJTalk",
+    "url": "https://ourdjtalk.com/members?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ourdjtalk.com/",
+    "username_claimed": "steve"
+  },
+  {
+    "name": "Outgress",
+    "url": "https://outgress.com/agents/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://outgress.com/",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "PCGamer",
+    "url": "https://forums.pcgamer.com/members/?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pcgamer.com",
+    "username_claimed": "admin"
+  },
+  {
+    "name": "PSNProfiles.com",
+    "url": "https://psnprofiles.com/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://psnprofiles.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Packagist",
+    "url": "https://packagist.org/packages/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://packagist.org/",
+    "username_claimed": "psr"
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.com/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pastebin.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Patched",
+    "url": "https://patched.sh/User/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://patched.sh/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Patreon",
+    "url": "https://www.patreon.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.patreon.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "PentesterLab",
+    "url": "https://pentesterlab.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pentesterlab.com/",
+    "username_regex": "^[\\w]{4,30}$",
+    "username_claimed": "0day"
+  },
+  {
+    "name": "HotUKdeals",
+    "url": "https://www.hotukdeals.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.hotukdeals.com/",
+    "username_claimed": "Blue"
+  },
+  {
+    "name": "Mydealz",
+    "url": "https://www.mydealz.de/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.mydealz.de/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Chollometro",
+    "url": "https://www.chollometro.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.chollometro.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "PepperNL",
+    "url": "https://nl.pepper.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://nl.pepper.com/",
+    "username_claimed": "Dynaw"
+  },
+  {
+    "name": "PepperPL",
+    "url": "https://www.pepper.pl/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pepper.pl/",
+    "username_claimed": "FireChicken"
+  },
+  {
+    "name": "Preisjaeger",
+    "url": "https://www.preisjaeger.at/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.preisjaeger.at/",
+    "username_claimed": "Stefan"
+  },
+  {
+    "name": "Pepperdeals",
+    "url": "https://www.pepperdeals.se/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pepperdeals.se/",
+    "username_claimed": "Mark"
+  },
+  {
+    "name": "PepperealsUS",
+    "url": "https://www.pepperdeals.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pepperdeals.com/",
+    "username_claimed": "Stepan"
+  },
+  {
+    "name": "Promodescuentos",
+    "url": "https://www.promodescuentos.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.promodescuentos.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Periscope",
+    "url": "https://www.periscope.tv/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.periscope.tv/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Pinkbike",
+    "url": "https://www.pinkbike.com/u/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pinkbike.com/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "pixelfed.social",
+    "url": "https://pixelfed.social/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pixelfed.social",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "PlayStore",
+    "url": "https://play.google.com/store/apps/developer?id={username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://play.google.com/store",
+    "username_claimed": "Facebook"
+  },
+  {
+    "name": "Playstrategy",
+    "url": "https://playstrategy.org/@/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://playstrategy.org",
+    "username_claimed": "oruro"
+  },
+  {
+    "name": "Plurk",
+    "url": "https://www.plurk.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.plurk.com/",
+    "username_claimed": "plurkoffice"
+  },
+  {
+    "name": "PocketStars",
+    "url": "https://pocketstars.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pocketstars.com/",
+    "username_claimed": "hacker"
+  },
+  {
+    "name": "Pokemon Showdown",
+    "url": "https://pokemonshowdown.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pokemonshowdown.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Polarsteps",
+    "url": "https://polarsteps.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://polarsteps.com/",
+    "username_claimed": "james"
+  },
+  {
+    "name": "Polygon",
+    "url": "https://www.polygon.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.polygon.com/",
+    "username_claimed": "swiftstickler"
+  },
+  {
+    "name": "Polymart",
+    "url": "https://polymart.org/user/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://polymart.org/",
+    "username_claimed": "craciu25yt"
+  },
+  {
+    "name": "Pornhub",
+    "url": "https://pornhub.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pornhub.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ProductHunt",
+    "url": "https://www.producthunt.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.producthunt.com/",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "programming.dev",
+    "url": "https://programming.dev/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://programming.dev",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "Pychess",
+    "url": "https://www.pychess.org/@/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pychess.org",
+    "username_claimed": "gbtami"
+  },
+  {
+    "name": "PromoDJ",
+    "url": "http://promodj.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://promodj.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Pronouns.page",
+    "url": "https://pronouns.page/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pronouns.page/",
+    "username_claimed": "andrea"
+  },
+  {
+    "name": "PyPi",
+    "url": "https://pypi.org/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pypi.org",
+    "username_claimed": "Blue"
+  },
+  {
+    "name": "Python.org Discussions",
+    "url": "https://discuss.python.org/u/{username}/summary",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discuss.python.org",
+    "username_claimed": "pablogsal"
+  },
+  {
+    "name": "Rajce.net",
+    "url": "https://{username}.rajce.idnes.cz/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.rajce.idnes.cz/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Rarible",
+    "url": "https://rarible.com/marketplace/api/v4/urls/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://rarible.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Rate Your Music",
+    "url": "https://rateyourmusic.com/~{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://rateyourmusic.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Rclone Forum",
+    "url": "https://forum.rclone.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.rclone.org/",
+    "username_claimed": "ncw"
+  },
+  {
+    "name": "RedTube",
+    "url": "https://www.redtube.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.redtube.com/",
+    "username_claimed": "hacker"
+  },
+  {
+    "name": "Redbubble",
+    "url": "https://www.redbubble.com/people/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.redbubble.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.reddit.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Realmeye",
+    "url": "https://www.realmeye.com/player/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.realmeye.com/",
+    "username_claimed": "rotmg"
+  },
+  {
+    "name": "Reisefrage",
+    "url": "https://www.reisefrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.reisefrage.net/",
+    "username_claimed": "reisefrage"
+  },
+  {
+    "name": "Replit.com",
+    "url": "https://replit.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://replit.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ResearchGate",
+    "url": "https://www.researchgate.net/profile/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.researchgate.net/",
+    "username_regex": "\\w+_\\w+",
+    "username_claimed": "John_Smith"
+  },
+  {
+    "name": "ReverbNation",
+    "url": "https://www.reverbnation.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.reverbnation.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://www.roblox.com/user.aspx?username={username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.roblox.com/",
+    "username_claimed": "bluewolfekiller"
+  },
+  {
+    "name": "RocketTube",
+    "url": "https://www.rockettube.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.rockettube.com/",
+    "username_claimed": "Tatteddick5600"
+  },
+  {
+    "name": "RoyalCams",
+    "url": "https://royalcams.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://royalcams.com",
+    "username_claimed": "asuna-black"
+  },
+  {
+    "name": "Ruby Forums",
+    "url": "https://ruby-forum.com/u/{username}/summary",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ruby-forums.com",
+    "username_claimed": "rishard"
+  },
+  {
+    "name": "RubyGems",
+    "url": "https://rubygems.org/profiles/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://rubygems.org/",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]{1,40}",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Rumble",
+    "url": "https://rumble.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://rumble.com/",
+    "username_claimed": "John"
+  },
+  {
+    "name": "RuneScape",
+    "url": "https://apps.runescape.com/runemetrics/app/overview/player/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.runescape.com/",
+    "username_regex": "^(?! )[\\w -]{1,12}(?<! )$",
+    "username_claimed": "L33"
+  },
+  {
+    "name": "SWAPD",
+    "url": "https://swapd.co/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://swapd.co/",
+    "username_claimed": "swapd"
+  },
+  {
+    "name": "Sbazar.cz",
+    "url": "https://www.sbazar.cz/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.sbazar.cz/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Scratch",
+    "url": "https://scratch.mit.edu/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://scratch.mit.edu/",
+    "username_claimed": "griffpatch"
+  },
+  {
+    "name": "Scribd",
+    "url": "https://www.scribd.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.scribd.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SEOForum",
+    "url": "https://seoforum.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.seoforum.com/",
+    "username_claimed": "ko"
+  },
+  {
+    "name": "ShitpostBot5000",
+    "url": "https://www.shitpostbot.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.shitpostbot.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Signal",
+    "url": "https://community.signalusers.org/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.signalusers.org",
+    "username_claimed": "jlund"
+  },
+  {
+    "name": "Sketchfab",
+    "url": "https://sketchfab.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://sketchfab.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Slack",
+    "url": "https://{username}.slack.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://slack.com",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Slant",
+    "url": "https://www.slant.co/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.slant.co/",
+    "username_regex": "^.{2,32}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Slashdot",
+    "url": "https://slashdot.org/~{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://slashdot.org",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SlideShare",
+    "url": "https://slideshare.net/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://slideshare.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Slides",
+    "url": "https://slides.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://slides.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SmugMug",
+    "url": "https://{username}.smugmug.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://smugmug.com",
+    "username_regex": "^[a-zA-Z]{1,35}$",
+    "username_claimed": "winchester"
+  },
+  {
+    "name": "Smule",
+    "url": "https://www.smule.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.smule.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com/add/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.snapchat.com",
+    "username_regex": "^[a-z][a-z-_.]{3,15}",
+    "username_claimed": "teamsnapchat"
+  },
+  {
+    "name": "SOOP",
+    "url": "https://www.sooplive.co.kr/station/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.sooplive.co.kr/",
+    "username_claimed": "udkn"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://soundcloud.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SourceForge",
+    "url": "https://sourceforge.net/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://sourceforge.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SoylentNews",
+    "url": "https://soylentnews.org/~{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://soylentnews.org",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "SpeakerDeck",
+    "url": "https://speakerdeck.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://speakerdeck.com/",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "Speedrun.com",
+    "url": "https://speedrun.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://speedrun.com/",
+    "username_claimed": "example"
+  },
+  {
+    "name": "Spells8",
+    "url": "https://forum.spells8.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://spells8.com",
+    "username_claimed": "susurrus"
+  },
+  {
+    "name": "Splice",
+    "url": "https://splice.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://splice.com/",
+    "username_claimed": "splice"
+  },
+  {
+    "name": "Splits.io",
+    "url": "https://splits.io/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://splits.io",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "cambosteve"
+  },
+  {
+    "name": "Sporcle",
+    "url": "https://www.sporcle.com/user/{username}/people",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.sporcle.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Sportlerfrage",
+    "url": "https://www.sportlerfrage.net/nutzer/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.sportlerfrage.net/",
+    "username_claimed": "sportlerfrage"
+  },
+  {
+    "name": "SportsRU",
+    "url": "https://www.sports.ru/profile/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.sports.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://open.spotify.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Star Citizen",
+    "url": "https://robertsspaceindustries.com/citizens/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://robertsspaceindustries.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Status Cafe",
+    "url": "https://status.cafe/users/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://status.cafe/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Steam Community (Group)",
+    "url": "https://steamcommunity.com/groups/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://steamcommunity.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Steam Community (User)",
+    "url": "https://steamcommunity.com/id/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://steamcommunity.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Strava",
+    "url": "https://www.strava.com/athletes/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.strava.com/",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "SublimeForum",
+    "url": "https://forum.sublimetext.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.sublimetext.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "TETR.IO",
+    "url": "https://ch.tetr.io/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tetr.io",
+    "username_claimed": "osk"
+  },
+  {
+    "name": "TheMovieDB",
+    "url": "https://www.themoviedb.org/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.themoviedb.org/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tiktok.com",
+    "username_claimed": "charlidamelio"
+  },
+  {
+    "name": "Tiendanube",
+    "url": "https://{username}.mitiendanube.com/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tiendanube.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Topcoder",
+    "url": "https://profiles.topcoder.com/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://topcoder.com/",
+    "username_regex": "^[a-zA-Z0-9_.]+$",
+    "username_claimed": "USER"
+  },
+  {
+    "name": "Topmate",
+    "url": "https://topmate.io/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://topmate.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "TRAKTRAIN",
+    "url": "https://traktrain.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://traktrain.com/",
+    "username_claimed": "traktrain"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://t.me/",
+    "username_regex": "^[a-zA-Z0-9_]{3,32}[^_]$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Tellonym.me",
+    "url": "https://tellonym.me/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tellonym.me/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Tenor",
+    "url": "https://tenor.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tenor.com/",
+    "username_regex": "^[A-Za-z0-9_]{2,32}$",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Terraria Forums",
+    "url": "https://forums.terraria.org/index.php?search/42798315/&c[users]={username}&o=relevance",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forums.terraria.org/index.php",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "ThemeForest",
+    "url": "https://themeforest.net/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://themeforest.net/",
+    "username_claimed": "user"
+  },
+  {
+    "name": "tistory",
+    "url": "https://{username}.tistory.com/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tistory.com/",
+    "username_claimed": "notice"
+  },
+  {
+    "name": "TnAFlix",
+    "url": "https://www.tnaflix.com/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tnaflix.com/",
+    "username_claimed": "hacker"
+  },
+  {
+    "name": "TradingView",
+    "url": "https://www.tradingview.com/u/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tradingview.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Trakt",
+    "url": "https://www.trakt.tv/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.trakt.tv/",
+    "username_regex": "^[^.]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "TrashboxRU",
+    "url": "https://trashbox.ru/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://trashbox.ru/",
+    "username_regex": "^[A-Za-z0-9_-]{3,16}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Trawelling",
+    "url": "https://traewelling.de/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://traewelling.de/",
+    "username_claimed": "lassestolley"
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://trello.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "TryHackMe",
+    "url": "https://tryhackme.com/p/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tryhackme.com/",
+    "username_regex": "^[a-zA-Z0-9.]{1,16}$",
+    "username_claimed": "ashu"
+  },
+  {
+    "name": "Tuna",
+    "url": "https://tuna.voicemod.net/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tuna.voicemod.net/",
+    "username_regex": "^[a-z0-9]{4,40}$",
+    "username_claimed": "bob"
+  },
+  {
+    "name": "Tweakers",
+    "url": "https://tweakers.net/gallery/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://tweakers.net",
+    "username_claimed": "femme"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.twitch.tv",
+    "username_claimed": "xqc"
+  },
+  {
+    "name": "Trovo",
+    "url": "https://trovo.live/s/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://trovo.live",
+    "username_claimed": "Aimilios"
+  },
+  {
+    "name": "Twitter",
+    "url": "https://x.com/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://x.com/",
+    "username_regex": "^[a-zA-Z0-9_]{1,15}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Typeracer",
+    "url": "https://data.typeracer.com/pit/profile?user={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://typeracer.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Ultimate-Guitar",
+    "url": "https://ultimate-guitar.com/u/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ultimate-guitar.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://unsplash.com/",
+    "username_regex": "^[a-z0-9_]{1,60}$",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Untappd",
+    "url": "https://untappd.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://untappd.com/",
+    "username_claimed": "untappd"
+  },
+  {
+    "name": "Valorant Forums",
+    "url": "https://valorantforums.com/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://valorantforums.com",
+    "username_claimed": "Wolves"
+  },
+  {
+    "name": "VK",
+    "url": "https://vk.com/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://vk.com/",
+    "username_claimed": "brown"
+  },
+  {
+    "name": "VSCO",
+    "url": "https://vsco.co/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://vsco.co/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Velog",
+    "url": "https://velog.io/@{username}/posts",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://velog.io/",
+    "username_claimed": "qlgks1"
+  },
+  {
+    "name": "Velomania",
+    "url": "https://forum.velomania.ru/member.php?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.velomania.ru/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Venmo",
+    "url": "https://account.venmo.com/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://venmo.com/",
+    "username_claimed": "jenny"
+  },
+  {
+    "name": "Vero",
+    "url": "https://vero.co/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://vero.co/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Vimeo",
+    "url": "https://vimeo.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://vimeo.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com/gui/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.virustotal.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "VLR",
+    "url": "https://www.vlr.gg/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.vlr.gg",
+    "username_claimed": "optms"
+  },
+  {
+    "name": "WICG Forum",
+    "url": "https://discourse.wicg.io/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://discourse.wicg.io/",
+    "username_regex": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$",
+    "username_claimed": "stefano"
+  },
+  {
+    "name": "Wakatime",
+    "url": "https://wakatime.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://wakatime.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Warrior Forum",
+    "url": "https://www.warriorforum.com/members/{username}.html",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.warriorforum.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wattpad",
+    "url": "https://www.wattpad.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.wattpad.com/",
+    "username_claimed": "Dogstho7951"
+  },
+  {
+    "name": "WebNode",
+    "url": "https://{username}.webnode.cz/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.webnode.cz/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "radkabalcarova"
+  },
+  {
+    "name": "Weblate",
+    "url": "https://hosted.weblate.org/user/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://hosted.weblate.org/",
+    "username_regex": "^[a-zA-Z0-9@._-]{1,150}$",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "Weebly",
+    "url": "https://{username}.weebly.com/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://weebly.com/",
+    "username_regex": "^[a-zA-Z0-9-]{1,63}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wikidot",
+    "url": "http://www.wikidot.com/user:info/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://www.wikidot.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Special:CentralAuth/{username}?uselang=qqx",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.wikipedia.org/",
+    "username_claimed": "Hoadlck"
+  },
+  {
+    "name": "Windy",
+    "url": "https://community.windy.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://windy.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wix",
+    "url": "https://{username}.wix.com",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://wix.com/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "support"
+  },
+  {
+    "name": "WolframalphaForum",
+    "url": "https://community.wolfram.com/web/{username}/home",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.wolfram.com/",
+    "username_claimed": "unico"
+  },
+  {
+    "name": "WordPress",
+    "url": "https://{username}.wordpress.com/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://wordpress.com",
+    "username_regex": "^[a-zA-Z][a-zA-Z0-9_-]*$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "WordPressOrg",
+    "url": "https://profiles.wordpress.org/{username}/",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://wordpress.org/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wordnik",
+    "url": "https://www.wordnik.com/users/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.wordnik.com/",
+    "username_regex": "^[a-zA-Z0-9_.+-]{1,40}$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Wykop",
+    "url": "https://www.wykop.pl/ludzie/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.wykop.pl",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Xbox Gamertag",
+    "url": "https://xboxgamertag.com/search/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://xboxgamertag.com/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "Xvideos",
+    "url": "https://xvideos.com/profiles/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://xvideos.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "YandexMusic",
+    "url": "https://music.yandex/users/{username}/playlists",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://music.yandex",
+    "username_claimed": "ya.playlist"
+  },
+  {
+    "name": "YouNow",
+    "url": "https://www.younow.com/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.younow.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "YouPic",
+    "url": "https://youpic.com/photographer/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://youpic.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "YouPorn",
+    "url": "https://youporn.com/uservids/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://youporn.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.youtube.com/",
+    "username_claimed": "youtube"
+  },
+  {
+    "name": "akniga",
+    "url": "https://akniga.org/profile/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://akniga.org/profile/blue/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "authorSTREAM",
+    "url": "http://www.authorstream.com/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://www.authorstream.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "babyblogRU",
+    "url": "https://www.babyblog.ru/user/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.babyblog.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "chaos.social",
+    "url": "https://chaos.social/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://chaos.social/",
+    "username_claimed": "rixx"
+  },
+  {
+    "name": "couchsurfing",
+    "url": "https://www.couchsurfing.com/people/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.couchsurfing.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "d3RU",
+    "url": "https://d3.ru/user/{username}/posts",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://d3.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "dailykos",
+    "url": "https://www.dailykos.com/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.dailykos.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "datingRU",
+    "url": "http://dating.ru/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://dating.ru",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "devRant",
+    "url": "https://devrant.com/users/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://devrant.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "drive2",
+    "url": "https://www.drive2.ru/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.drive2.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "eGPU",
+    "url": "https://egpu.io/forums/profile/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://egpu.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "eintracht",
+    "url": "https://community.eintracht.de/fans/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://eintracht.de",
+    "username_regex": "^[^.]*?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "fixya",
+    "url": "https://www.fixya.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.fixya.com",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "fl",
+    "url": "https://www.fl.ru/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.fl.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "forum_guns",
+    "url": "https://forum.guns.ru/forummisc/blog/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.guns.ru/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "freecodecamp",
+    "url": "https://www.freecodecamp.org/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.freecodecamp.org/",
+    "username_claimed": "naveennamani"
+  },
+  {
+    "name": "furaffinity",
+    "url": "https://www.furaffinity.net/user/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.furaffinity.net",
+    "username_claimed": "jesus"
+  },
+  {
+    "name": "geocaching",
+    "url": "https://www.geocaching.com/p/default.aspx?u={username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.geocaching.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "habr",
+    "url": "https://habr.com/ru/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://habr.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "hackster",
+    "url": "https://www.hackster.io/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.hackster.io",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "hunting",
+    "url": "https://www.hunting.ru/forum/members/?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.hunting.ru/forum/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "igromania",
+    "url": "http://forum.igromania.ru/member.php?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "http://forum.igromania.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "interpals",
+    "url": "https://www.interpals.net/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.interpals.net/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "irecommend",
+    "url": "https://irecommend.ru/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://irecommend.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "jbzd.com.pl",
+    "url": "https://jbzd.com.pl/uzytkownik/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://jbzd.com.pl/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "jeuxvideo",
+    "url": "https://www.jeuxvideo.com/profil/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.jeuxvideo.com",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "kofi",
+    "url": "https://ko-fi.com/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://ko-fi.com",
+    "username_claimed": "yeahkenny"
+  },
+  {
+    "name": "kwork",
+    "url": "https://kwork.ru/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.kwork.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "last.fm",
+    "url": "https://last.fm/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://last.fm/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "leasehackr",
+    "url": "https://forum.leasehackr.com/u/{username}/summary/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://forum.leasehackr.com/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "livelib",
+    "url": "https://www.livelib.ru/reader/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.livelib.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "mastodon.cloud",
+    "url": "https://mastodon.cloud/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mastodon.cloud/",
+    "username_claimed": "TheAdmin"
+  },
+  {
+    "name": "mastodon.social",
+    "url": "https://mastodon.social/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://chaos.social/",
+    "username_claimed": "Gargron"
+  },
+  {
+    "name": "mastodon.xyz",
+    "url": "https://mastodon.xyz/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mastodon.xyz/",
+    "username_claimed": "TheKinrar"
+  },
+  {
+    "name": "mstdn.social",
+    "url": "https://mstdn.social/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mstdn.social/",
+    "username_claimed": "MagicLike"
+  },
+  {
+    "name": "mercadolivre",
+    "url": "https://www.mercadolivre.com.br/perfil/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.mercadolivre.com.br",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "minds",
+    "url": "https://www.minds.com/{username}/",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.minds.com",
+    "username_claimed": "john"
+  },
+  {
+    "name": "moikrug",
+    "url": "https://moikrug.ru/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://moikrug.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "mstdn.io",
+    "url": "https://mstdn.io/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://mstdn.io/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "nairaland.com",
+    "url": "https://www.nairaland.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.nairaland.com/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "n8n Community",
+    "url": "https://community.n8n.io/u/{username}/summary",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://community.n8n.io/",
+    "username_claimed": "n8n"
+  },
+  {
+    "name": "nnRU",
+    "url": "https://{username}.www.nn.ru/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.nn.ru/",
+    "username_regex": "^[\\w@-]+?$",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "note",
+    "url": "https://note.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://note.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "npm",
+    "url": "https://www.npmjs.com/~{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.npmjs.com/",
+    "username_claimed": "kennethsweezy"
+  },
+  {
+    "name": "omg.lol",
+    "url": "https://{username}.omg.lol",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://home.omg.lol",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "opennet",
+    "url": "https://www.opennet.ru/~{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.opennet.ru/",
+    "username_regex": "^[^-]*$",
+    "username_claimed": "anonismus"
+  },
+  {
+    "name": "osu!",
+    "url": "https://osu.ppy.sh/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://osu.ppy.sh/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "phpRU",
+    "url": "https://php.ru/forum/members/?username={username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://php.ru/forum/",
+    "username_claimed": "apple"
+  },
+  {
+    "name": "pikabu",
+    "url": "https://pikabu.ru/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pikabu.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.pinterest.com/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "pr0gramm",
+    "url": "https://pr0gramm.com/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://pr0gramm.com/",
+    "username_claimed": "cha0s"
+  },
+  {
+    "name": "prog.hu",
+    "url": "https://prog.hu/azonosito/info/{username}",
+    "error_type": "response_url",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://prog.hu/",
+    "username_claimed": "Sting"
+  },
+  {
+    "name": "satsisRU",
+    "url": "https://satsis.info/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://satsis.info/",
+    "username_claimed": "red"
+  },
+  {
+    "name": "sessionize",
+    "url": "https://sessionize.com/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://sessionize.com/",
+    "username_claimed": "jason-mayes"
+  },
+  {
+    "name": "social.tchncs.de",
+    "url": "https://social.tchncs.de/@{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://social.tchncs.de/",
+    "username_claimed": "Milan"
+  },
+  {
+    "name": "spletnik",
+    "url": "https://spletnik.ru/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://spletnik.ru/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "svidbook",
+    "url": "https://www.svidbook.ru/user/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.svidbook.ru/",
+    "username_claimed": "green"
+  },
+  {
+    "name": "threads",
+    "url": "https://www.threads.net/@{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.threads.net/",
+    "username_claimed": "zuck"
+  },
+  {
+    "name": "toster",
+    "url": "https://www.toster.ru/user/{username}/answers",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.toster.ru/",
+    "username_claimed": "adam"
+  },
+  {
+    "name": "tumblr",
+    "url": "https://{username}.tumblr.com/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.tumblr.com/",
+    "username_claimed": "goku"
+  },
+  {
+    "name": "uid",
+    "url": "http://uid.me/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://uid.me/",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "write.as",
+    "url": "https://write.as/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://write.as",
+    "username_claimed": "pylapp"
+  },
+  {
+    "name": "xHamster",
+    "url": "https://xhamster.com/users/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://xhamster.com",
+    "username_claimed": "blue"
+  },
+  {
+    "name": "znanylekarz.pl",
+    "url": "https://www.znanylekarz.pl/{username}",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://znanylekarz.pl",
+    "username_claimed": "janusz-nowak"
+  },
+  {
+    "name": "Platzi",
+    "url": "https://platzi.com/p/{username}/",
+    "error_type": "status_code",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://platzi.com/",
+    "username_claimed": "freddier"
+  },
+  {
+    "name": "BabyRu",
+    "url": "https://www.baby.ru/u/{username}",
+    "error_type": "message",
+    "valid_status": [
+      200
+    ],
+    "enabled": true,
+    "url_main": "https://www.baby.ru/",
+    "username_claimed": "example"
+  }
+]
